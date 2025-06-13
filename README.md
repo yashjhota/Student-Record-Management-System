@@ -56,9 +56,10 @@ Enter choice:
 ```
 
 ## ✅ Sample CSV Format (students.csv)
+```bash
 101,Yash Jain,Computer Science
 102,Vansh,Information Technology
-
+```
 # 💡 Improvements Ideas
 - 🔐 Add login system for admin
 - 🖥️ Create GUI using JavaFX or Swing
